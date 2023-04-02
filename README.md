@@ -1,2 +1,3 @@
-# INSTAGRAMPAGECLONE
+# LANDING INSTAGRAMPAGE
+
 Created with CodeSandbox
